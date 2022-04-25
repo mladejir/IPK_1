@@ -2,6 +2,10 @@
 ## Autor
 - Jiří Mládek (xmlade01)
 
+
+## Hodnocení
+- 20/20
+
 ## Popis projektu
 
 Jedná se o server v jazyce C komunikující prostřednictvím protokolu HTTP, který poskytuje informace o systému. Konkrétně doménové jméno, informace o CPU a aktuální zátěž procesoru. Server naslouchá na zadaném portu v argumentu programu. Podle tvaru url vrací požadované informace.
